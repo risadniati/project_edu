@@ -52,6 +52,11 @@ Pada Dashboard, ditampilkan sebaran mahasiswa berdasarkan status perkuliahan, ge
 ## Menjalankan Sistem Machine Learning
 - Install streamlit pada perangkat.
 - Run perintah streamlit run app.py pada command prompt atau terminal
+  ```
+!pip install streamlit
+streamlit run app.py
+
+```
 
 ## Conclusion
 
